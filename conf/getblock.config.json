@@ -1,0 +1,16 @@
+{
+	"shared": {
+		"trx": {
+			"mainnet": {
+				"fullnodeJsonRpc": [
+					"2f2083fae5e14f419ac3f1a83a1f8568"
+				]
+			},
+			"testnet": {
+				"fullnodeJsonRpc": [
+					"bca480c9c1274f31bd41e63e1dd72731"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tron Fusion Local",
+  "network": "Custom",
+  "fullNode": "http://127.0.0.1:8090",
+  "solidityNode": "http://127.0.0.1:9090",
+  "eventServer": "http://127.0.0.1:8080",
+  "explorer": "",
+  "accounts": [
+    {
+      "privateKey": "f1e6c71a1ae6d45a5f92f9cbb9c130dc6a4ceb678908661364ef07d897ad6112",
+      "name": "Wallet 1"
+    },
+    {
+      "privateKey": "ea7a020b9d2efdc344ca14d5936c5b80678b52479e8713f52fccb5f36ec8c907",
+      "name": "Wallet 2"
+    },
+    {
+      "privateKey": "9d1d174b2f67bb9f71fd1361eb408126b8e1fbe2864e9e142be8c6fac871eda1",
+      "name": "Wallet 3"
+    }
+
+  ]
+}
+

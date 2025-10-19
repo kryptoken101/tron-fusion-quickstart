@@ -1,0 +1,29 @@
+{
+  "name": "tron-fusion-quickstart",
+  "version": "1.0.0",
+  "description": "__The purpose of it is to set up a complete private network for Tron development.__",
+  "main": "fusion-proxy.js",
+  "bin": {
+    "tron-fusion-quickstart": "bin/prepare.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRON-US/docker-tron-quickstart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TRON-US/docker-tron-quickstart/issues"
+  },
+  "homepage": "https://github.com/TRON-US/docker-tron-quickstart#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}

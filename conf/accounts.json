@@ -1,0 +1,7 @@
+{
+  "accounts": [
+    { "address": "TMCTYG7EQkUkrrTy1fso47YKpnkPbuawMW", "privateKey": "a0f48ad3a0b3973559b95dd0898d58904bb3b3fc3c1fabcfd9ea341f70da08cc", "balance": 30000000 },
+    { "address": "TEFccUNfgWyjuiiUo9LfNSb56jLhBo7pCV", "privateKey": "f017915411a0e7827e8f1f357c4ed2ccdcb1b1295cdb0fb0a5c13cbbd5da3734", "balance": 30000000 }
+  ]
+}
+

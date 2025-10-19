@@ -1,0 +1,24 @@
+{
+  "init_timestamp": 1660000000000,
+  "accounts": [
+    {
+      "address": "TEFccUNfgWyjuiiUo9LfNSb56jLhBo7pCV",
+      "balance": 30000000000000
+    },
+    {
+      "address": "TA73xxkaK7PTpBUShGd2cpRkpRyvXJnb3Z",
+      "balance": 30000000000000
+    }
+  ],
+  "witnesses": [
+    {
+      "address": "TEFccUNfgWyjuiiUo9LfNSb56jLhBo7pCV",
+      "url": "http://127.0.0.1"
+    },
+    {
+      "address": "TA73xxkaK7PTpBUShGd2cpRkpRyvXJnb3Z",
+      "url": "http://127.0.0.1"
+    }
+  ]
+}
+
